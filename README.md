@@ -2,18 +2,6 @@
 
 I'm Erin! A full-stack web developer with love for both front and back end technologies
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 ### Some of my favorite projects so far
 
 - ⭐ - [Book Hunt](https://srad25.github.io/Book-Hunt/) - A full stack application that allows the user to look up info on top sellers and find prices!
@@ -24,7 +12,7 @@ ___
 - 🌱 - I’m always excited to learn new languages and more! 
 - 👯 - I’m always excited to work with others and collab on projects!
 - 💬 - Connect with me on [LinkedIn](https://www.linkedin.com/in/erin-seppala/)
-- 📫 - Shoot me an [email!](mailto:SeppalaErin98@gmail.com)
+- 📫 - Send me an [email!](mailto:SeppalaErin98@gmail.com)
 
 ___
 
