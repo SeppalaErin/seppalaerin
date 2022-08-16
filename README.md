@@ -16,6 +16,6 @@ ___
 
 ___
 
-[![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=aseppala98&hide_rank=true&hide=stars&hide_title=true&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=seppalaerin&hide_rank=true&hide=stars&hide_title=true&theme=nightowl&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aseppala98&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seppalaerin&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
